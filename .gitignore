@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+
+# Archivos de configuración
+.env
+
+# Archivos temporales
+*.pyc
+__pycache__/
+
+# Archivos de compilación
+dist/
+build/
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# others
+Dockerfile copy
